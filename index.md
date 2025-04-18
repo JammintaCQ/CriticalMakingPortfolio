@@ -1,4 +1,4 @@
-# Aminta Quintoro-Jackson
+# Aminta Quintero-Jackson
 
 ## Critical Making Spring 2025
 
