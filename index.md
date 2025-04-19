@@ -5,7 +5,7 @@ title: Spring 2025 Portfolio
 
 # Aminta Quintero-Jackson
 
-## Critical Making Portfolio!
+## Critical Making Portfolio
 
 ### Projects
 
