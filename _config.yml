@@ -1,0 +1,10 @@
+title: Spring 2025 Portfolio
+author: JamintaCQ
+description: My Critical Making projects and reflections
+
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
