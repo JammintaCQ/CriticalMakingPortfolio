@@ -3,7 +3,7 @@ layout: home
 title: Spring 2025 Portfolio
 ---
 
-# Aminta Quinteo-Jackson
+# Aminta Quintero-Jackson
 
 ## Critical Making Portfolio!
 
