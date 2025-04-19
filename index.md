@@ -3,9 +3,10 @@ layout: home
 title: Spring 2025 Portfolio
 ---
 
-Welcome to my Critical Making Portfolio!
+# Aminta Quinteo-Jackson
 
-### Projects
+## Critical Making Portfolio!
 
-- [Grocery Store Baby Blowout](grocery_store_baby_blowout.html)
-- [TwineThinking](TwineThinking.html)
+- [Birds (p5.js sketch on OpenProcessing)](https://openprocessing.org/sketch/2602956)
+- [Read my Twine story](TwineThinking.html)
+- [Play my Bitsy game](grocery_store_baby_blowout.html)
