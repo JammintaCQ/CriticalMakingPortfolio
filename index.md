@@ -14,4 +14,5 @@ title: Spring 2025 Portfolio
 - [Play my Bitsy game](grocery_store_baby_blowout.html)
 <p>
   <a href="secondpage.html" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Visit My Second Page</a>
+
 </p>
