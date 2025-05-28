@@ -2,7 +2,7 @@ title: Spring 2025 Portfolio
 author: JamintaCQ
 description: My Critical Making projects and reflections
 
-theme: minima
+theme: jekyll-theme-midnight
 
 markdown: kramdown
 plugins:
